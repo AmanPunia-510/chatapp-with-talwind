@@ -11,3 +11,12 @@
 .ff-roboto {
   font-family: "Roboto", sans-serif;
 }
+
+.left-0{
+  left: 0;
+}
+
+.menubar{
+  position: relative;
+  z-index: 10;
+}

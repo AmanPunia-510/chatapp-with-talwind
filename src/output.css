@@ -1471,6 +1471,10 @@ video {
 }
 
 @media (min-width: 640px){
+  .sm\:mt-\[90px\]{
+    margin-top: 90px;
+  }
+
   .sm\:py-\[90px\]{
     padding-top: 90px;
     padding-bottom: 90px;
